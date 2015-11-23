@@ -14,7 +14,7 @@ pde_file=
 board="uno"
 port=
 switch="-c"
-library_path="/Applications/Arduino.app/Contents/Resources/Java"
+library_path="/Applications/Arduino.app/Contents/Java"
 
 while [ $# -gt 0 ]
 do
